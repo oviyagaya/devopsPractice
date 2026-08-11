@@ -10,4 +10,6 @@ public class DevopsPracticeApplication {
 		SpringApplication.run(DevopsPracticeApplication.class, args);
 	}
 
+
+	
 }
